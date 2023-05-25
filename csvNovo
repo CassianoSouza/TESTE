@@ -1,0 +1,20 @@
+Grupos de Natureza da Despesa;Categoria;Valor
+Pessoal e Encargos Sociais;Pessoal ativo;800
+Pessoal e Encargos Sociais;Pessoal inativo;400
+Pessoal e Encargos Sociais;Pensionistas;300
+Pessoal e Encargos Sociais;Indenizações;200
+Juros e Encargos da Dívida;Pagamento de juros;100
+Juros e Encargos da Dívida;Comissões;50 
+Juros e Encargos da Dívida;Dívida pública;60
+Outras Despesas Correntes;Aquisição de material;10
+Outras Despesas Correntes;Contribuições;80
+Outras Despesas Correntes;Auxílio diárias;200 
+Outras Despesas Correntes;Auxílio alimentação;50
+Outras Despesas Correntes;Auxílio transporte;100
+Outras Despesas Correntes;Sentenças judiciais;50
+Investimentos;Obras e instalações;500 
+Investimentos;Aquisição de imóveis;200 
+Investimentos;Softwares;50
+Investimentos;Equipamentos;200
+Inversões Financeiras;Contribuições;60
+Inversões Financeiras;Transferências;30
